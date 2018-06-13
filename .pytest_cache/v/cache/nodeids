@@ -1,0 +1,7 @@
+[
+  "products/tests/test_model.py::TestModel::()::test_product_is_in_stock",
+  "products/tests/test_model.py::TestModel::()::test_product_is_not_in_stock",
+  "products/tests/test_urls.py::TestUrls::()::test_detail_url",
+  "products/tests/test_views.py::TestViews::()::test_product_detail_authenticated",
+  "products/tests/test_views.py::TestViews::()::test_product_detail_unauthenticated"
+]
